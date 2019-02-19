@@ -4,6 +4,7 @@
 # Changelog
 
 * February 12, 2019
+
 ElitePress was picked for theme and child theme was created for customization.
 
 Added plugins
