@@ -3,13 +3,17 @@
 
 # Changelog
 
+* February 22, 2019
+
+Removed plugin for appointment
+
+Customized woocommerce checkout page
+
 * February 12, 2019
 
 ElitePress was picked for theme and child theme was created for customization.
 
 Added plugins
-
-
 
 * February 11, 2019
 
