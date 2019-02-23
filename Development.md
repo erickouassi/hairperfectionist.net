@@ -3,6 +3,10 @@
 
 # Changelog
 
+* February 23, 2019
+
+Re-edited shipping zones
+
 * February 22, 2019
 
 Removed plugin for appointment
