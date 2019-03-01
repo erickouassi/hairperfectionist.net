@@ -3,6 +3,10 @@
 
 # Changelog
 
+* February 28, 2019
+
+Theme & plugin
+
 * February 23, 2019
 
 Re-edited shipping zones
