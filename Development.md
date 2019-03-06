@@ -3,6 +3,10 @@
 
 # Changelog
 
+* 3/05/2019
+
+Added hits & clicks to the site
+
 * 2/28/2019
 
 Theme & plugin
