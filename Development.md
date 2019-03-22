@@ -4,6 +4,9 @@
 # Changelog
 
 * 3/21/2019
+
+Add W3Counter Free Real-Time Web Stats
+
 Removed hits & clicks
 
 * 3/05/2019
