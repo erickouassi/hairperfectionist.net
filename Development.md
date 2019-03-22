@@ -3,6 +3,9 @@
 
 # Changelog
 
+* 3/21/2019
+Removed hits & clicks
+
 * 3/05/2019
 
 Added hits & clicks to the site
