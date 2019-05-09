@@ -41,3 +41,9 @@ A new installation of WordPress 5.0.3 has been completed.
 
 Manual plugins update
 
+* 5/8/2019
+
+Manual plugins update
+
+Removed picture (Av/Ap)
+
