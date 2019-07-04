@@ -51,4 +51,9 @@ Removed picture (Av/Ap)
 
 Manual plugins update
 
+* 7/4/2019
+
+Manual plugins update
+
+
 
